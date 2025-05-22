@@ -11,7 +11,6 @@ An implementation code for paper "Secrets Lie in Smooth Patches: Synthetic Image
 - [Usage](#usage)
 - [Acknowledgments](#acknowledgments)
 
-
 ## SLSP
 
 With the proliferation of powerful image generative models, accurately and robustly detecting synthetic images has become an increasingly challenging and important problem. Recent detection approaches often overfit to specific generators or dataset artifacts, limiting their generalizability. Our work revisits the fundamental statistical differences between real and generated images, focusing on the subtle stochastic pixel fluctuations that are inherently present in real photographs but largely missing or over-smoothed in synthetic ones.
